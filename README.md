@@ -1,7 +1,7 @@
 # Olá! Eu sou a Pietra 👋
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (5º período)**  
-💡 Apaixonada por tecnologia, aprendizado contínuo e desenvolvimento de soluções criativas.  
+🫆 Apaixonada por tecnologia, aprendizado contínuo e desenvolvimento de soluções criativas.  
 🎯 Buscando minha primeira oportunidade na área de tecnologia.
 
 ---
@@ -22,6 +22,7 @@
   <!-- Data & BI -->
   <img src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000" width="50" height="50" alt="Power BI" />
 
+  <img src="https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000" width="50" height="50" alt="VSCode" />
 </p>
 
 ---
@@ -33,11 +34,12 @@
 
 ---
 
-## 📌 Projetos Acadêmicos
-- **AulaGo** — Plataforma de captação e gestão que conecta professores de idiomas e alunos.  
-- **Resumo Acadêmico Financeiro** — Dashboard em Power BI que oferece aos professores uma visão clara de seus ganhos por período, número de alunos, contatos recebidos, aulas agendadas e os dias mais requisitados da semana. Desenvolvido para o sistema AulaGo.
-  [ver dashboard] » https://app.powerbi.com/view?r=eyJrIjoiMjQxNTMyNmMtMjkwNS00MTYyLTg3NzItY2YwZjllNmNiNjdhIiwidCI6IjU5ZDRmMjQ5LTA1MjAtNDZjZi1iNmIyLTg3M2Q1ZGE1NDNmZSJ9
 
+
+## 📌 Projetos Acadêmicos
+- **AulaGo**  — Plataforma de captação e gestão que conecta professores de idiomas e alunos.  
+- **Resumo Acadêmico Financeiro** - [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjQxNTMyNmMtMjkwNS00MTYyLTg3NzItY2YwZjllNmNiNjdhIiwidCI6IjU5ZDRmMjQ5LTA1MjAtNDZjZi1iNmIyLTg3M2Q1ZGE1NDNmZSJ9) em Power BI que oferece aos professores uma visão clara de seus ganhos por período, número de alunos, contatos recebidos, aulas agendadas e os dias mais requisitados da semana. Desenvolvido para o sistema AulaGo.
+  
 ---
 
 ## 📊 Estatísticas do GitHub
