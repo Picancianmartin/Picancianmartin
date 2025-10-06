@@ -1,4 +1,4 @@
-# Olá! Eu sou a Pietra 👋
+# Olá! Eu sou Pietra 👋
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (5º período)**  
 🫆 Apaixonada por tecnologia, aprendizado contínuo e desenvolvimento de soluções criativas.  
