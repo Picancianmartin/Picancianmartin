@@ -1,9 +1,8 @@
 # Olá! Eu sou Pietra 👋
 
 🎓 Formada em **Análise e Desenvolvimento de Sistemas (FACENS)**  
-📱 Desenvolvedora Full Stack com foco recente em **Mobile iOS**.
-🚀 Apaixonada por criar soluções que unem design intuitivo e código eficiente.
-
+🫆 Apaixonada por tecnologia, aprendizado contínuo e desenvolvimento de soluções criativas.  
+🎯 Buscando minha primeira oportunidade na área de tecnologia.
 ---
 
 ## 🧰 Minha Stack Tecnológica
