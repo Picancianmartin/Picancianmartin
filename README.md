@@ -1,59 +1,79 @@
 # Olá! Eu sou Pietra 👋
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas (5º período)**  
-🫆 Apaixonada por tecnologia, aprendizado contínuo e desenvolvimento de soluções criativas.  
-🎯 Buscando minha primeira oportunidade na área de tecnologia.
+🎓 Formada em **Análise e Desenvolvimento de Sistemas (FACENS)**  
+📱 Desenvolvedora Full Stack com foco recente em **Mobile iOS**.
+🚀 Apaixonada por criar soluções que unem design intuitivo e código eficiente.
 
 ---
 
-## 🧰 Tecnologias & Ferramentas  
+## 🧰 Minha Stack Tecnológica
 
+#### 📱 Mobile (iOS)
 <p align="left">
-  <!-- Frontend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" alt="TypeScript" />
-  <img src="https://img.icons8.com/?size=100&id=dSnah6CSCxRG&format=png&color=000000" width="50" height="50" alt="Angular" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
+  <img src="https://img.shields.io/badge/SwiftUI-000000?style=for-the-badge&logo=swift&logoColor=blue" alt="SwiftUI" />
+  <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode" />
+  <img src="https://img.shields.io/badge/SwiftData-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftData" />
+</p>
 
-  <!-- Backend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python" />
+#### 💻 Frontend & Backend
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</p>
 
-  <!-- Data & BI -->
-  <img src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000" width="50" height="50" alt="Power BI" />
-
-  <img src="https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000" width="50" height="50" alt="VSCode" />
+#### 📊 Dados & Ferramentas
+<p align="left">
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
 ---
 
-## 🧠 Atualmente aprendendo
-- Java para desenvolvimento back-end  
-- Python para automação e análise de dados  
-- Conceitos de APIs REST e integração front/back-end  
+## 🏆 Projetos em Destaque
+
+### 💊 [MedFlow iOS](https://github.com/Picancianmartin/MedFlowiOS)
+**Aplicativo nativo para gestão inteligente de medicamentos e saúde.**
+Desenvolvido inteiramente em **Swift** e **SwiftUI**, o projeto foca na experiência do usuário e segurança de dados.
+- **Features:** Bula Inteligente (busca JSON local), Sistema de Notificações (Local Notifications), Controle de Estoque e Alertas de Contraindicação.
+- **Tech:** SwiftData (Persistência), UserNotifications, JSON Parsing, MVVM Architecture.
+
+### 📚 AulaGo
+**Plataforma de conexão entre professores e alunos de idiomas.**
+Sistema web completo para agendamento e gestão de aulas particulares.
+- **Tech:** Java, Angular, TypeScript.
 
 ---
 
+## 🎨 UI/UX & Prototipagem (Figma)
 
+Além do desenvolvimento, utilizo o **Figma** para criar interfaces intuitivas e protótipos antes de iniciar a codificação.
 
-## 📌 Projetos Acadêmicos
-- **AulaGo**  — Plataforma de captação e gestão que conecta professores de idiomas e alunos.  
-- **Resumo Acadêmico Financeiro** - [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjQxNTMyNmMtMjkwNS00MTYyLTg3NzItY2YwZjllNmNiNjdhIiwidCI6IjU5ZDRmMjQ5LTA1MjAtNDZjZi1iNmIyLTg3M2Q1ZGE1NDNmZSJ9) em Power BI que oferece aos professores uma visão clara de seus ganhos por período, número de alunos, contatos recebidos, aulas agendadas e os dias mais requisitados da semana. Desenvolvido para o sistema AulaGo.
-  
+### 📄 Landing Page Concept
+Projeto de interface focado em conversão e hierarquia visual moderna.
+- **Ferramenta:** Figma
+- **Status:** Prototipagem
+- [🔗 Ver no Figma](https://www.figma.com/design/gODnTlPk8yh8Njsf3OcyK3/Landing-Page?node-id=0-1&t=UEuo4zhxC9MYMlth-1)
+
+### Curso Figma SkillShare (Design System)
+Prototipagem focada na experiência do usuário e componentes reutilizáveis.
+- **Ferramenta:** Figma
+- [🔗 Ver no Figma](https://www.figma.com/design/KwiRdE2FktJQTMaeGLESrG/Curso-Figma-SkillShare?node-id=129-114&t=fileRFtoGsR4uo8D-1)
 ---
 
-## 📊 Estatísticas do GitHub
-<a href="https://github.com/Picancianmartin">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Picancianmartin&show_icons=true&theme=tokyonight&hide_border=true"/>
-</a>
-<a href="https://github.com/Picancianmartin">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Picancianmartin&layout=compact&theme=tokyonight&hide_border=true"/>
-</a>
+## 📈 Github Stats
+
+<div align="center">
+  <a href="https://github.com/Picancianmartin">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Picancianmartin&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Picancianmartin&layout=compact&theme=tokyonight&hide_border=true"/>
+  </a>
+</div>
 
 ---
 
-## 📫 Vamos conversar?
-- ✉️ pietra.cmartin@gmail.com  
-- 💼 https://www.linkedin.com/in/pietra-cancian-martin/
-
----
+## 📫 Contato
+- 💼 [LinkedIn](https://www.linkedin.com/in/pietra-cancian-martin/)
+- ✉️ pietra.cmartin@gmail.com
