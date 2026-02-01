@@ -74,5 +74,5 @@ Sistema web completo para agendamento e gestão de aulas.
 ---
 
 ## 📫 Contato
-- 💼 [LinkedIn](https://www.linkedin.com/in/pietra-cancian-martin/)
-- ✉️ pietra.cmartin@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/martinpietra/)
+- ✉️ contato@pietramartin.dev
