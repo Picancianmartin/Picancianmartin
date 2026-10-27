@@ -1,51 +1,80 @@
-# Pietra Cancian Martin
+<p align="center">
+  <img src="./assets/banner.png" alt="Pietra Cancian Martin, desenvolvedora full stack. Sites e automações para consultórios e pequenos negócios." width="100%">
+</p>
 
-**Desenvolvedora full stack. Faço sites e automações para consultórios e pequenos negócios.**
+# Olá, eu sou a Pietra! 👋
 
-Antes do código foram oito anos de handebol profissional. Hoje jogo beach tennis, categoria Pro. Sou formada em Análise e Desenvolvimento de Sistemas pela FACENS e faço MBA na USP.
+💻 **Desenvolvedora full stack.** Faço sites e automações para consultórios e pequenos negócios.
+🤾‍♀️ Antes do código, **oito anos de handebol profissional**. Hoje jogo beach tennis, categoria Pro 🎾
+🎓 Formada em Análise e Desenvolvimento de Sistemas pela FACENS, com MBA em andamento na USP
 
-[Portfólio](https://www.pietramartin.dev) · [Quanto custa um site? Estimativa em 1 minuto](https://www.pietramartin.dev/orcamento) · [LinkedIn](https://www.linkedin.com/in/martinpietra/) · contato@pietramartin.dev
+<p>
+  <a href="https://www.pietramartin.dev"><img src="https://img.shields.io/badge/Portf%C3%B3lio-091636?style=for-the-badge" alt="Portfólio"></a>
+  <a href="https://www.pietramartin.dev/orcamento"><img src="https://img.shields.io/badge/Quanto%20custa%20um%20site%3F-6E5CF4?style=for-the-badge" alt="Quanto custa um site?"></a>
+  <a href="https://www.linkedin.com/in/martinpietra/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:contato@pietramartin.dev"><img src="https://img.shields.io/badge/E--mail-102446?style=for-the-badge" alt="E-mail"></a>
+</p>
 
 ---
 
-## O que eu faço
+## ✨ O que eu faço
 
-- **Sites que levam a pessoa até você.** React, TypeScript, Vite e Tailwind, pensados para o celular e com caminho direto para o WhatsApp.
-- **Automações com n8n.** O que alguém faz na mão toda semana vira fluxo: depoimento aprovado num clique, aviso no celular, números do Instagram atualizados sozinhos.
-- **Lojas e sistemas com Supabase.** Catálogo, pagamento por PIX e painel de gestão.
-- **Aplicativos nativos.** Swift e SwiftUI no iOS, Java no Android.
+- 🌐 **Sites que levam a pessoa até você.** React, TypeScript, Vite e Tailwind, pensados para o celular e com caminho direto para o WhatsApp.
+- ⚙️ **Automações com n8n.** O que alguém faz na mão toda semana vira fluxo: depoimento aprovado num clique, aviso no celular, números do Instagram atualizados sozinhos.
+- 🛒 **Lojas e sistemas com Supabase.** Catálogo, pagamento por PIX e painel de gestão.
+- 📱 **Aplicativos nativos.** Swift e SwiftUI no iOS, Java no Android.
 
-## Trabalhos
+## 🚀 Trabalhos
 
-**Site do psicólogo Carlos Martin** · [no ar](https://www.psicologocarlosmartin.com.br/)
-Depoimentos que se atualizam sozinhos: o paciente escreve no site, o psicólogo aprova por e-mail com um clique e a página publica, sem painel e sem backend tradicional. React 18, TypeScript, Vite, Tailwind, Framer Motion, Radix UI e n8n.
+| | Projeto | O que resolve | Tecnologias | Links |
+|:-:|---|---|---|---|
+| 🧠 | **Site do psicólogo Carlos Martin** | Depoimentos que se atualizam sozinhos: o paciente escreve no site, o psicólogo aprova por e-mail com um clique e a página publica. | React 18, TypeScript, Vite, Tailwind, Framer Motion, Radix UI, n8n | [No ar](https://www.psicologocarlosmartin.com.br/) |
+| 🛍️ | **UniformesCoach** | Loja com estoque em tempo real, PIX no checkout, painel administrativo e dashboard com exportação. | React, Vite, Tailwind, Supabase | [No ar](https://www.ctcoachdavidsousa.com.br/) · [Código](https://github.com/Picancianmartin/UniformesCoachSite) |
+| 💊 | **MedFlow** | App iOS nativo e offline-first que calcula a agenda de doses e dispara notificações locais. | Swift, SwiftUI, SwiftData, Combine | [Código](https://github.com/Picancianmartin/MedFlowiOS) · [Demo](https://picancianmartin.github.io/MedFlowiOS/) |
+| 🎓 | **AulaGo** | MVP acadêmico, em equipe: app Android que conecta alunos e professores particulares de idiomas. | Java, Firebase, Google Sign-In | [Demo](https://www.pietramartin.dev/lp-aulago) · [Código](https://github.com/Jessica-G-arcia/AulaGo_mobile) |
 
-**UniformesCoach** · [no ar](https://www.ctcoachdavidsousa.com.br/) · [código](https://github.com/Picancianmartin/UniformesCoachSite)
-Loja com catálogo e validação de estoque em tempo real, PIX no checkout, painel administrativo e dashboard com exportação. React, Vite, Tailwind e Supabase.
+## 💡 Feitos para mim, e funcionando
 
-**MedFlow** · [código](https://github.com/Picancianmartin/MedFlowiOS) · [demo](https://picancianmartin.github.io/MedFlowiOS/)
-App iOS nativo e offline-first, que calcula a agenda de doses e dispara notificações locais. Swift, SwiftUI, SwiftData, Combine e UserNotifications.
+- 📊 **[Media kit de atleta](https://mediakit.pietramartin.dev):** lê o Instagram pela API oficial, via n8n, e mostra alcance, engajamento e cidades do público, sempre com a data e a hora da leitura.
+- 💰 **[Cotador de orçamento](https://www.pietramartin.dev/orcamento):** cinco perguntas em português comum, e a faixa de preço e o prazo aparecem na hora.
 
-**AulaGo** · [demo](https://www.pietramartin.dev/lp-aulago) · [código](https://github.com/Jessica-G-arcia/AulaGo_mobile)
-MVP acadêmico, em equipe: app Android nativo que conecta alunos e professores particulares de idiomas. Java, Firebase (Auth e Firestore) e Google Sign-In.
+## 🧰 Stack
 
-## Feitos para mim, e funcionando
+**Front-end**
 
-- **[Media kit de atleta](https://mediakit.pietramartin.dev):** lê o Instagram pela API oficial, via n8n, e mostra alcance, engajamento e cidades do público, sempre com a data e a hora da leitura.
-- **[Cotador de orçamento](https://www.pietramartin.dev/orcamento):** cinco perguntas em português comum, e a faixa de preço e o prazo aparecem na hora.
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion">
+</p>
 
-## Stack
+**Back-end, dados e automação**
 
-- **Front-end:** React, TypeScript, Vite, Tailwind CSS, Framer Motion, Radix UI
-- **Back-end e dados:** Node.js, Supabase, Firebase, REST APIs, Python
-- **Automação:** n8n
-- **Mobile:** Swift, SwiftUI, SwiftData, Java (Android)
-- **Design:** Figma
-- **Já usei:** Angular, Bootstrap, Power BI
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n">
+</p>
 
-## Trabalhe comigo
+**Mobile e design**
 
-Faço sites e automações para consultórios e pequenos negócios. [Descubra a faixa de preço e o prazo do seu em 1 minuto](https://www.pietramartin.dev/orcamento).
+<p>
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white" alt="Swift">
+  <img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white" alt="SwiftUI">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma">
+</p>
+
+Já usei: Angular, Bootstrap e Power BI.
+
+## 💬 Trabalhe comigo
+
+Faço sites e automações para consultórios e pequenos negócios. **[Descubra a faixa de preço e o prazo do seu em 1 minuto 👉](https://www.pietramartin.dev/orcamento)**
+
 Também estou aberta a oportunidades em equipe: [LinkedIn](https://www.linkedin.com/in/martinpietra/) ou contato@pietramartin.dev.
 
-Conteúdo sobre sites e automação no Instagram: [@pietramartin.dev](https://www.instagram.com/pietramartin.dev/).
+📸 Conteúdo sobre sites e automação no Instagram: [@pietramartin.dev](https://www.instagram.com/pietramartin.dev/)
